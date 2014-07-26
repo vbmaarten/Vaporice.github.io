@@ -7,6 +7,10 @@ background: -o-radial-gradient(center, ellipse cover,  #96407d 0%,#691150 100%);
 background: -ms-radial-gradient(center, ellipse cover,  #96407d 0%,#691150 100%); /* IE10+ */
 background: radial-gradient(ellipse at center,  #96407d 0%,#691150 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96407d', endColorstr='#691150',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+margin: 0px;
+padding: 0px;
+overflow-x: hidden;	
 }
 
 .mainimage {
@@ -15,12 +19,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96407d', end
 	height: 100%;
 	top: 0px;
 	left: 0px;
-}
-
-body{
-	margin: 0px;
-	padding: 0px;
-	overflow-x: hidden;
 }
 
 .label{
