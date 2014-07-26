@@ -17,6 +17,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96407d', end
 	left: 0px;
 }
 
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
 .label{
 	opacity:0;
 }
