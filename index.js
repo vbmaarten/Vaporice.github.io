@@ -131,7 +131,7 @@ Donderdag<br />\
 function label5(e){	
 	$("#dialog").css("width", "40%")	
 	$(window).resize();
-	openDialog("Leuk datje lid wilt worden! Ga naar het <a href='https://docs.google.com/spreadsheet/viewform?formkey=dFRySXptcVFHeGpjNXZsekRjcl9VQ1E6MA#gid=0'>Inschrijfformulier</a> om je in te schrijven!");
+	openDialog("Leuk dat je lid wilt worden! Ga naar het <a href='https://docs.google.com/spreadsheet/viewform?formkey=dFRySXptcVFHeGpjNXZsekRjcl9VQ1E6MA#gid=0'>Inschrijfformulier</a> om je in te schrijven!");
 }
 
 function label6(e){
