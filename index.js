@@ -8,6 +8,11 @@ $(window).resize(function(){
     $('#text').css("max-height", ($(window).height())*0.8 );
 
 });
+
+$(window).load(function() {
+    $(window).resize();
+});
+
 $( document ).ready(function() {
 	$(window).resize();
 	$(window).resize();
