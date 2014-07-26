@@ -10,7 +10,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96407d', end
 
 margin: 0px;
 padding: 0px;
-overflow-x: hidden;	
+overflow: hidden;	
 }
 
 .mainimage {
