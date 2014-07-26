@@ -27,6 +27,15 @@ $( document ).ready(function() {
 	  	if(isclicked("#label6", e)){label6(e)}
  	});
 
+  	$("img").mousemove(function(e){
+	  	if(isclicked("#label1", e)){$("#label1").css("opacity", "0.5")}else{$("#label1").css("opacity", "0")}
+	  	if(isclicked("#label2", e)){$("#label2").css("opacity", "0.5")}else{$("#label2").css("opacity", "0")}
+	  	if(isclicked("#label3", e)){$("#label3").css("opacity", "0.5")}else{$("#label3").css("opacity", "0")}
+	  	if(isclicked("#label4", e)){$("#label4").css("opacity", "0.5")}else{$("#label4").css("opacity", "0")}
+	  	if(isclicked("#label5", e)){$("#label5").css("opacity", "0.5")}else{$("#label5").css("opacity", "0")}
+	  	if(isclicked("#label6", e)){$("#label6").css("opacity", "0.5")}else{$("#label6").css("opacity", "0")}
+ 	});
+
  	$(document).keyup(function(e) {
 	  if (e.keyCode == 27) {closeDialog();} 
 	});
