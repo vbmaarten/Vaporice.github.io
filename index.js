@@ -110,7 +110,7 @@ function label4(e){
 	openDialog("Maandag<br />\
 <br />\
 19.00 - 19.30 - Escalator AAN<br />\
-19.30-  20.30 - Eerste hulp bij buitenlanders<br />\
+19.30 - 20.30 - Eerste hulp bij buitenlanders<br />\
 20.30 - 21.30 - Into the wild<br />\
 21.30 - 23.00 - (Lift)reisverhalen<br />\
 23.00 - 00.00 - Bouw een biertje met Unibrouw<br />\
