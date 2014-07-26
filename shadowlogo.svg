@@ -2,7 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -17,7 +16,7 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="shadowlogo.svg">
 
-<style>
+  <style>
    <![CDATA[
 
    @font-face {
@@ -27,7 +26,6 @@
 
    ]]>
    </style>
-
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -43,7 +41,7 @@
      showgrid="false"
      inkscape:zoom="1.1992187"
      inkscape:cx="461.14091"
-     inkscape:cy="405.08657"
+     inkscape:cy="505.15172"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -56,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -214,7 +212,8 @@
      transform="matrix(0.84246648,0.53874876,-0.53874876,0.84246648,0,0)"
      id="text5078"
      xml:space="preserve"
-     style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952000000292%;letter-spacing:0.04px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"><tspan
+     style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952000000292%;letter-spacing:0.04px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"
+     sodipodi:linespacing="88%"><tspan
        x="218.0925"
        y="-45.331139"
        id="tspan5080"
@@ -245,7 +244,8 @@
      transform="matrix(0.91973324,0.39254397,-0.39254397,0.91973324,0,0)"
      id="text5078-3"
      xml:space="preserve"
-     style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952000000292%;letter-spacing:0.04px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"><tspan
+     style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952000000292%;letter-spacing:0.04px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"
+     sodipodi:linespacing="88%"><tspan
        x="189.71146"
        y="229.60152"
        id="tspan5082-7"
@@ -260,7 +260,8 @@
      transform="matrix(0.35971096,-0.93306378,0.93306378,0.35971096,0,0)"
      id="text5078-2"
      xml:space="preserve"
-     style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952000000292%;letter-spacing:0.04px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"><tspan
+     style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952000000292%;letter-spacing:0.04px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"
+     sodipodi:linespacing="88%"><tspan
        x="-579.82623"
        y="312.17984"
        id="tspan5082-3"
@@ -291,16 +292,16 @@
      transform="matrix(0.96933354,0.24574883,-0.24574883,0.96933354,0,0)"
      id="text5078-4"
      xml:space="preserve"
-     style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952000000292%;letter-spacing:0.04px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"
+     style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952000000292%;letter-spacing:0.22px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"
      sodipodi:linespacing="88%"><tspan
        x="912.47723"
        y="138.68446"
        id="tspan5082-0"
-       style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952000000292%;letter-spacing:0.04px;-inkscape-font-specification:A little sunshine Bold">Ik wil lid</tspan><tspan
+       style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952000000292%;letter-spacing:0.22px;-inkscape-font-specification:A little sunshine Bold">Ik wil lid</tspan><tspan
        x="912.47723"
        y="172.12447"
        id="tspan5174"
-       style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952000000292%;letter-spacing:0.04px;-inkscape-font-specification:A little sunshine Bold">worden!</tspan></text>
+       style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952000000292%;letter-spacing:0.22px;-inkscape-font-specification:A little sunshine Bold">worden!</tspan></text>
   <text
      x="268.89905"
      y="625.17914"
