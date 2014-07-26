@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1024"
+   height="768"
+   id="svg3039"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="label5.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview3072"
+     showgrid="false"
+     inkscape:zoom="0.59960937"
+     inkscape:cx="308.45896"
+     inkscape:cy="381.61982"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3039" />
+  <metadata
+     id="metadata3045">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3043">
+    <clipPath
+       id="clipPath4001">
+      <path
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 z"
+         id="path4003" />
+    </clipPath>
+    <clipPath
+       id="clipPath4001-1">
+      <path
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 z"
+         id="path4003-7" />
+    </clipPath>
+    <clipPath
+       id="clipPath4001-1-5">
+      <path
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 z"
+         id="path4003-7-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath4001-1-8">
+      <path
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 z"
+         id="path4003-7-0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4001-7">
+      <path
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 z"
+         id="path4003-0" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6002">
+      <feFlood
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.705"
+         id="feFlood6004" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite6006" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="4"
+         id="feGaussianBlur6008" />
+      <feOffset
+         result="offset"
+         dy="4"
+         dx="4"
+         id="feOffset6010" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite6012" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6026">
+      <feFlood
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.705"
+         id="feFlood6028" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite6030" />
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="4"
+         id="feGaussianBlur6032" />
+      <feOffset
+         result="offset"
+         dy="4"
+         dx="4"
+         id="feOffset6034" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite6036" />
+    </filter>
+  </defs>
+  <path
+     d="m 960.6472,440.28724 c 1.4231,-0.49666 2.5829,-1.67418 2.9974,-3.2476 l 23.2857,-88.3455 c 0.6633,-2.51748 -0.8247,-5.07127 -3.3422,-5.73455 L 819.08849,299.61391 c -2.51748,-0.66328 -5.07127,0.82477 -5.73455,3.34225 l -23.28569,88.34548 c -0.6633,2.51748 0.82469,5.0713 3.3422,5.73457 l 164.4996,43.34568 c 0.94405,0.24873 1.88329,0.20335 2.73715,-0.0947 z m -143.79711,-86.2576 c -3.28873,1.10387 -6.82907,-0.60607 -7.91372,-3.83752 -1.08465,-3.23146 0.69713,-6.76075 3.98585,-7.86462 3.28873,-1.10387 6.83902,0.63569 7.92367,3.86715 1.08464,3.23145 -0.70708,6.73112 -3.9958,7.83499 z"
+     id="path3937"
+     style="color:#000000;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.85611855999999986;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter6002);enable-background:accumulate"
+     inkscape:connector-curvature="0" />
+</svg>
