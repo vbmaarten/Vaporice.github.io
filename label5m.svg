@@ -14,7 +14,7 @@
    id="svg3919"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="label4m.svg">
+   sodipodi:docname="label5m.svg">
   <defs
      id="defs3921" />
   <sodipodi:namedview
@@ -28,16 +28,16 @@
      inkscape:cx="181.21548"
      inkscape:cy="83.895778"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3377"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="472"
+     inkscape:window-width="475"
      inkscape:window-height="383"
-     inkscape:window-x="921"
-     inkscape:window-y="24"
+     inkscape:window-x="574"
+     inkscape:window-y="385"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata3924">
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,26 +64,6 @@
          style="color:#000000;fill:#dee3e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.85611856;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter6002);enable-background:accumulate"
          d="m 237.28699,345.4269 c 1.07825,-1.05322 1.62935,-2.61142 1.33759,-4.21215 l -16.3709,-89.88405 c -0.46672,-2.56122 -2.89718,-4.24314 -5.45841,-3.77639 L 49.436102,278.04818 c -2.56121,0.46674 -4.243111,2.89724 -3.776367,5.45845 l 16.370901,89.88405 c 0.466726,2.56121 2.897188,4.24317 5.458421,3.7764 L 234.84821,346.67321 c 0.96045,-0.17503 1.79184,-0.61438 2.43876,-1.24636 z M 70.481912,328.2792 c -2.5104,2.3942 -6.441768,2.34673 -8.794267,-0.11994 -2.352504,-2.46668 -2.235293,-6.4185 0.275099,-8.81269 2.5104,-2.3942 6.463338,-2.32413 8.815842,0.14256 2.35249,2.46667 2.213718,6.39588 -0.296674,8.79007 z"
          id="rect5016-8" />
-      <text
-         inkscape:transform-center-x="21.834654"
-         transform="matrix(0.98192941,-0.18924753,0.18924753,0.98192941,0,0)"
-         sodipodi:linespacing="88%"
-         id="text5078-4"
-         y="330.05334"
-         x="42.385418"
-         style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"
-         xml:space="preserve"
-         inkscape:transform-center-y="14.076377"><tspan
-           id="tspan5082-0"
-           style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952%;letter-spacing:-1.24000216px;-inkscape-font-specification:A little sunshine Bold"
-           y="330.05334"
-           x="42.385418"
-           sodipodi:role="line">Ik wil lid</tspan><tspan
-           id="tspan5174"
-           style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952%;letter-spacing:-1.24000216px;-inkscape-font-specification:A little sunshine Bold"
-           y="363.49335"
-           x="42.385418"
-           sodipodi:role="line">worden!</tspan></text>
     </g>
   </g>
 </svg>
