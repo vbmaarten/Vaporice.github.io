@@ -80,7 +80,7 @@ function isclicked(id, event){
 	var offx = (e.offsetX || e.clientX - $(e.target).offset().left);
 	var offy = (e.offsetY || e.clientY - $(e.target).offset().top);
 
-	var pixelData = canvas.getContext('2d').getImageData(event.offsetX, event.offsetY, 1, 1).data;
+	var pixelData = canvas.getContext('2d').getImageData(offx, offy, 1, 1).data;
 	if(pixelData[0] == 68){
 		return true;
 	} else {
