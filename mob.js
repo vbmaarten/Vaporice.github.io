@@ -19,12 +19,14 @@ function openDialog(text){
 	$("#text").html(text);
 	$("#blackness").css("visibility", "visible");
 	$("#dialog").css("visibility", "visible");
+	$("#close").css("visibility", "visible");
 
 }
 
 function closeDialog(){	
 	$("#blackness").css("visibility", "hidden");
 	$("#dialog").css("visibility", "hidden");
+	$("#close").css("visibility", "hidden");
 }
 
 
