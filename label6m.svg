@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="409.72107"
+   height="305.59543"
+   id="svg3919"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="label5m.svg">
+  <defs
+     id="defs3921" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="237.50455"
+     inkscape:cy="245.26492"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="472"
+     inkscape:window-height="383"
+     inkscape:window-x="921"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3924">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-137.49546,-472.03169)">
+    <g
+       id="g3395"
+       transform="matrix(1.5793443,-1.5283511,1.5283511,1.5793443,-1510.5577,677.13531)">
+      <path
+         style="fill:#dee3e1;fill-opacity:1;stroke:none;filter:url(#filter6002)"
+         d="m 674.62566,642.78884 -14.29337,21.04785 c 0,0 -2.8646,5.54431 -10.59263,0.1508 -7.72804,-5.39353 -98.59411,-67.38106 -98.59411,-67.38106 0,0 -3.66139,-1.93261 -4.79067,-6.49961 -1.12928,-4.567 -10.48426,-52.18225 -10.48426,-52.18225 0,0 -1.80689,-4.34642 1.39756,-8.9176 3.20445,-4.57116 13.53446,-19.12902 13.53446,-19.12902 0,0 1.312,-4.15112 7.03684,-4.76955 5.72485,-0.61838 52.33843,-9.27839 52.33843,-9.27839 0,0 3.8345,-1.7325 9.93767,3.00821 6.10315,4.7407 98.94929,67.40954 98.94929,67.40954 0,0 6.72162,3.06358 -0.98758,13.47089 -7.70924,10.40729 -7.78566,10.45495 -7.78566,10.45495 z"
+         id="path4970-9-9"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.80854019,0.58844096,-0.58844096,0.80854019,0,0)"
+         sodipodi:linespacing="88%"
+         id="text5078-9"
+         y="96.002472"
+         x="776.88861"
+         style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"
+         xml:space="preserve"><tspan
+           id="tspan5082-9"
+           style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952%;letter-spacing:-1.24000216px;-inkscape-font-specification:A little sunshine Bold"
+           y="96.002472"
+           x="776.88861"
+           sodipodi:role="line">AEGEE-Delft</tspan><tspan
+           id="tspan5159"
+           style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952%;letter-spacing:-1.24000216px;-inkscape-font-specification:A little sunshine Bold"
+           y="129.44247"
+           x="776.88861"
+           sodipodi:role="line">Website</tspan></text>
+    </g>
+  </g>
+</svg>

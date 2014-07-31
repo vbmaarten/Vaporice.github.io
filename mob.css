@@ -1,0 +1,18 @@
+body {
+background: #96407d; /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover,  #96407d 0%, #691150 100%); /* FF3.6+ */
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#96407d), color-stop(100%,#691150)); /* Chrome,Safari4+ */
+background: -webkit-radial-gradient(center, ellipse cover,  #96407d 0%,#691150 100%); /* Chrome10+,Safari5.1+ */
+background: -o-radial-gradient(center, ellipse cover,  #96407d 0%,#691150 100%); /* Opera 12+ */
+background: -ms-radial-gradient(center, ellipse cover,  #96407d 0%,#691150 100%); /* IE10+ */
+background: radial-gradient(ellipse at center,  #96407d 0%,#691150 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96407d', endColorstr='#691150',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+margin: 0px;
+padding: 0px;
+}
+
+
+.label{
+	width: 100%;
+}

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="403.7818"
+   height="239.25339"
+   id="svg3919"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="label3m.svg">
+  <defs
+     id="defs3921" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="74.713185"
+     inkscape:cy="69.866899"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="472"
+     inkscape:window-height="383"
+     inkscape:window-x="921"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3924">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-300.28682,-362.9757)">
+    <g
+       id="g3407"
+       transform="matrix(0.6210812,2.1081849,-2.1081849,0.6210812,1886.7995,-468.65037)">
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;fill:#dee3e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.85611856;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter6002);enable-background:accumulate"
+         d="m 161.50152,793.16084 c 0.38544,1.45717 1.47003,2.70426 3.00679,3.2389 l 86.28683,30.02891 c 2.45883,0.85544 5.11977,-0.43126 5.9752,-2.89009 l 55.90155,-160.6673 c 0.85543,-2.45883 -0.43126,-5.11977 -2.89009,-5.9752 l -86.28683,-30.02892 c -2.45883,-0.85543 -5.11977,0.43126 -5.9752,2.89009 l -55.90155,160.66731 c -0.32078,0.92205 -0.34796,1.862 -0.1167,2.7363 z M 258.5908,656.44341 c -0.84699,-3.36406 1.13086,-6.76201 4.43633,-7.59424 3.30548,-0.83223 6.68686,1.21639 7.53385,4.58045 0.84698,3.36405 -1.16117,6.76963 -4.46665,7.60186 -3.30547,0.83224 -6.65655,-1.22402 -7.50353,-4.58807 z"
+         id="rect5016-7" />
+      <text
+         transform="matrix(0.35971096,-0.93306378,0.93306378,0.35971096,0,0)"
+         sodipodi:linespacing="88%"
+         id="text5078-2"
+         y="483.72406"
+         x="-647.01575"
+         style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"
+         xml:space="preserve"><tspan
+           id="tspan5082-3"
+           style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952%;letter-spacing:-1.24000216px;-inkscape-font-specification:A little sunshine Bold"
+           y="483.72406"
+           x="-647.01575"
+           sodipodi:role="line">Wat is </tspan><tspan
+           id="tspan5144"
+           style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952%;letter-spacing:-1.24000216px;-inkscape-font-specification:A little sunshine Bold"
+           y="517.16406"
+           x="-647.01575"
+           sodipodi:role="line">AEGEE?</tspan></text>
+    </g>
+  </g>
+</svg>

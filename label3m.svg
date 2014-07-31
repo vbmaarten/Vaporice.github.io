@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="408.97934"
+   height="303.62253"
+   id="svg3919"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="label2m.svg">
+  <defs
+     id="defs3921" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="201.39371"
+     inkscape:cy="175.95449"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="472"
+     inkscape:window-height="383"
+     inkscape:window-x="921"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3924">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-173.6063,-404.69415)">
+    <g
+       id="g3401"
+       transform="matrix(1.8668359,-1.1597883,1.1597883,1.8668359,-1426.207,-226.24127)">
+      <path
+         style="fill:#dee3e1;fill-opacity:1;stroke:none;filter:url(#filter6002)"
+         d="m 443.07691,674.31595 9.72271,-23.5113 c 0,0 1.67938,-6.01041 10.34144,-2.2981 8.66206,3.71231 110.22027,45.96194 110.22027,45.96194 0,0 3.97748,1.14905 6.01041,5.39169 2.03293,4.24264 20.85965,48.96715 20.85965,48.96715 0,0 2.65165,3.88909 0.44194,9.01562 -2.20971,5.12652 -9.36916,21.47836 -9.36916,21.47836 0,0 -0.44194,4.33103 -5.92202,6.0988 -5.48008,1.76777 -49.36489,19.7106 -49.36489,19.7106 0,0 -3.40295,2.47488 -10.34144,-0.92808 -6.93849,-3.40295 -110.57383,-45.91774 -110.57383,-45.91774 0,0 -7.20365,-1.63519 -1.76776,-13.39085 5.43588,-11.75565 5.50104,-11.81784 5.50104,-11.81784 z"
+         id="path4970"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.91973324,0.39254397,-0.39254397,0.91973324,0,0)"
+         sodipodi:linespacing="88%"
+         id="text5078-3"
+         y="467.69815"
+         x="709.07257"
+         style="font-size:38px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:87.99999952%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:A little sunshine;-inkscape-font-specification:A little sunshine Bold"
+         xml:space="preserve"><tspan
+           id="tspan5082-7"
+           style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952%;letter-spacing:-1.24000216px;-inkscape-font-specification:A little sunshine Bold"
+           y="467.69815"
+           x="709.07257"
+           sodipodi:role="line">Lift naar </tspan><tspan
+           id="tspan5129"
+           style="font-size:38px;font-style:normal;font-weight:bold;line-height:87.99999952%;letter-spacing:-1.24000216px;-inkscape-font-specification:A little sunshine Bold"
+           y="501.13815"
+           x="709.07257"
+           sodipodi:role="line">Berlijn!</tspan></text>
+    </g>
+  </g>
+</svg>
