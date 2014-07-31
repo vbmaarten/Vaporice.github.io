@@ -85,8 +85,10 @@ function isclicked(id, eventObj){
 		offY = eventObj.originalEvent.layerY - $(eventObj.currentTarget).offset().top;
 	}
 
-	offX += $("#koffer").css("padding-left");
-	offY += $("#koffer").css("padding-top");
+	alert($("#koffer").css("padding-left"));
+	alert($("#koffer").css("padding-top"));
+	offX = offX + $("#koffer").css("padding-left");
+	offY = offY + $("#koffer").css("padding-top");
 
 	var pixelData = canvas.getContext('2d').getImageData(offX, offY, 1, 1).data;
 	if(pixelData[0] == 68){
