@@ -42,7 +42,6 @@ padding: 0px;
 	background: #dee3e1;
 	width: 96%;
 	height: 5%;
-	line-height: 5%;
 	position: fixed;
 	bottom: 2%;
 	left: 2%;
@@ -52,6 +51,7 @@ padding: 0px;
 	font-family: arial;
 	font-weight: bold;
 	font-size: 3em;
+	vertical-align: middle;
 	l
 }
 
