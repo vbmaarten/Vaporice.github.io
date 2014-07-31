@@ -83,7 +83,10 @@ function isclicked(id, eventObj){
 		// FireFox Fix
 		offX = eventObj.originalEvent.layerX - $(eventObj.currentTarget).offset().left;
 		offY = eventObj.originalEvent.layerY - $(eventObj.currentTarget).offset().top;
-	}	
+	}
+
+	offX += $("#koffer").css("padding-left");
+	offY += $("#koffer").css("padding-top");
 
 	var pixelData = canvas.getContext('2d').getImageData(offX, offY, 1, 1).data;
 	if(pixelData[0] == 68){
