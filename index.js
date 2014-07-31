@@ -19,9 +19,11 @@ function imgsize(){
 	if(aswin < aspect){
 		$("#koffer").css("width", String($(window).width())+"px");
 		$("#koffer").css("height", String($(window).width()/aspect)+"px");
+		$("#koffer").css("margin-top", ($(window).height-$("#koffer").height())/2);
 	} else {		
 		$("#koffer").css("height", String($(window).height())+"px");
 		$("#koffer").css("width", String($(window).height()*aspect)+"px");
+		$("#koffer").css("margin-left", ($(window).width-$("#koffer").width())/2);
 	}
 }
 
