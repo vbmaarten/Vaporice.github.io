@@ -21,7 +21,8 @@ padding: 0px;
 	font-family: arial;
 	font-size: 2em;
 	height: 100%;
-	overflow: scroll;
+	overflow: auto;	
+	text-align: left;
 }
 
 #dialog{		
