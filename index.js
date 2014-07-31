@@ -19,11 +19,14 @@ function imgsize(){
 	if(aswin < aspect){
 		$("#koffer").css("width", String($(window).width())+"px");
 		$("#koffer").css("height", String($(window).width()/aspect)+"px");		
-		$("#koffer").css("margin-top", ($(window).height-$("#koffer").height())/2);
+		$("#koffer").css("margin-top", String(($(window).height-$("#koffer").height())/2)+"px");
+		$("#koffer").css("margin-left", "0px");
 	} else {		
 		$("#koffer").css("height", String($(window).height())+"px");
 		$("#koffer").css("width", String($(window).height()*aspect)+"px");
-		$("#koffer").css("margin-top", ($(window).height-$("#koffer").height())/2);
+		$("#koffer").css("margin-left", String(($(window).height-$("#koffer").height())/2)+"px");
+		$("#koffer").css("margin-top", "0px");
+
 	}
 }
 
