@@ -5,7 +5,7 @@ $(window).resize(function(){
         top: ($(window).height() - $('#dialog').height())/2
     });
 
-    $("#label1").css("height", $("#img").height());
+    $("#label1").css("height", $("#koffer").height());
 
     $('#text').css("max-height", ($(window).height())*0.8 );
 
