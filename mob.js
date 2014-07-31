@@ -1,10 +1,8 @@
 $(window).resize(function(){
-	$("#content").css("margin-top", String($("#header").height()+30)+"px");
 });
 
 
 $( document ).ready(function() {
-	$("#content").css("margin-top", String($("#header").height()+30)+"px");
 
 	$("blackness").click(closeDialog());
 
