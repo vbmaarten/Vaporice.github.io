@@ -1,10 +1,11 @@
-$(window).resize(function(){
-});
-
 
 $( document ).ready(function() {
-
-	$("blackness").click(closeDialog());
+	$("#blackness").click( function(){
+		closeDialog();
+	});
+	$("#close").click( function(){
+		closeDialog();
+	});
 
 	$("#button1").click(function(){
 		button1();
