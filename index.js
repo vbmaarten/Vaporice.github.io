@@ -7,7 +7,7 @@ if(mobilecheck()){
 	window.location = "http://owee2014.maartenvb.org/mob.html";
 }
 
-(window).resize(function(){
+$(window).resize(function(){
     $('#dialog').css({
         position:'absolute',
         left: ($(window).width() - $('#dialog').width())/2,
