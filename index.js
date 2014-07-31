@@ -70,17 +70,22 @@ $( document ).ready(function() {
 });
 
 
-function isclicked(id, e){
+function isclicked(id, eventObj){
   	var img = $(id)[0];
 	var canvas = $('<canvas/>')[0];
 	canvas.width = img.width;
 	canvas.height = img.height;
 	canvas.getContext('2d').drawImage(img, 0, 0, img.width, img.height);
 
-	var offx = (e.offsetX || e.clientX - $(e.target).offset().left);
-	var offy = (e.offsetY || e.clientY - $(e.target).offset().top);
+	offX = eventObj.offsetX;
+	offY = eventObj.offsetY;
+	if (!eventObj.offsetX){
+		// FireFox Fix
+		offX = eventObj.originalEvent.layerX - $(eventObj.currentTarget).offset().left;
+		offY = eventObj.originalEvent.layerY - $(eventObj.currentTarget).offset().top;
+	}	
 
-	var pixelData = canvas.getContext('2d').getImageData(offx, offy, 1, 1).data;
+	var pixelData = canvas.getContext('2d').getImageData(offX, offY, 1, 1).data;
 	if(pixelData[0] == 68){
 		return true;
 	} else {
