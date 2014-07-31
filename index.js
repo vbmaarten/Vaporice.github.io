@@ -18,8 +18,10 @@ function imgsize(){
 
 	if(aswin > aspect){
 		$("#koffer").css("width", String($(window).width())+"px");
+		$("#koffer").css("height", String($(window).width()*aspect)+"px");
 	} else {		
 		$("#koffer").css("height", String($(window).height())+"px");
+		$("#koffer").css("width", String($(window).height()/aspect)+"px");
 	}
 }
 
