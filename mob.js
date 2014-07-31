@@ -7,9 +7,12 @@ $( document ).ready(function() {
 		closeDialog();
 	});
 
-	$("#button1").click(function(){
-		button1();
-	});
+	$("#button1").click(function(){button1();});
+	$("#button2").click(function(){button2();});
+	$("#button3").click(function(){button3();});
+	$("#button4").click(function(){button4();});
+	$("#button5").click(function(){button5();});
+	$("#button6").click(function(){button6();});
 
 	$(document).keyup(function(e) {
 	  if (e.keyCode == 27) {closeDialog();} 
@@ -55,4 +58,57 @@ function button1(){
 	        in Europa worden zeer goedkope zomervakanties georganiseerd voor en door studenten. Je leert twee weken lang studenten uit\
 	         heel Europa kennen door te sporten, feesten, rond te reizen of een taalcursus te volgen. Er valt jaarlijks te kiezen uit ruim\
 	          80 bestemmingen.<br /><br />Kortom: de mooiste ervaringen van je leven doe je op bij AEGEE-Delft.");
+}
+
+function label5(e){	
+	openDialog("Van 3 t/m 5 oktober organiseert AEGEE-Delft een introductieliftreis naar Berlijn! \
+		Voor de nog onervaren lifter organiseren wij vooraf aan deze reis een liftworkshop. Dus of\
+		 je nu al heel de wereld rondgelift bent, of nog nooit met je duim omhoog langs de weg hebt\
+		  gestaan, iedereen kan meedoen! Tijdens deze trip zullen wij een bezoek brengen aan\
+		   AEGEE-Berlijn en aan hun hand alle voor toeristen onbekende plekjes in de stad ontdekken!\
+		    De reis is open voor leden en niet-leden.");	
+}
+
+function label2(e){
+	openDialog("Tijdens de Owee zijn wij elke avond te vinden in caf\u00E9 de Bonte Os.\
+		<br /><br /><b>Adres:</b> Voldersgracht 10, 2611 ET Delft")
+}
+
+function label3(e){	
+	openDialog("Maandag<br />\
+<br />\
+19.00 - 19.30 - Escalator AAN<br />\
+19.30 - 20.30 - Eerste hulp bij buitenlanders<br />\
+20.30 - 21.30 - Into the wild<br />\
+21.30 - 23.00 - (Lift)reisverhalen<br />\
+23.00 - 00.00 - Bouw een biertje met Unibrouw<br />\
+00.00 - 01.00 - VOEDERTIJD<br />\
+<br />\
+Dinsdag<br />\
+<br />\
+19.00 - 21.00 - Portret painting night<br />\
+20.00 - 22.00 - Open podium<br />\
+22.00 - 00.00 - AEGEE on stage<br />\
+00.00 - 01.00 - VOEDERTIJD<br />\
+<br />\
+Woensdag<br />\
+<br />\
+19.00 - 22.00 - Get dressed<br />\
+20.00 - 23.00 - Barspelen<br />\
+22.00 - 23.00 - Pubquiz<br />\
+23.00 - 01.00 - DJ's<br />\
+00.00 - 01.00 - VOEDERTIJD<br />\
+<br />\
+Donderdag<br />\
+<br />\
+18.00-20.00 - Kookt<br />\
+20.00-01.00 - De nulste borrel")
+}
+
+function label4(e){
+	openDialog("Leuk dat je lid wilt worden! Ga naar het <a href='https://docs.google.com/spreadsheet/viewform?formkey=dFRySXptcVFHeGpjNXZsekRjcl9VQ1E6MA#gid=0'>Inschrijfformulier</a> om je in te schrijven!");
+}
+
+function label6(e){
+	window.location = "http://www.aegee-delft.nl";
 }
