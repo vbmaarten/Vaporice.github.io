@@ -9,6 +9,7 @@ $(window).resize(function(){
     $("#label1").css("width", $("#koffer").width());
 
     $('#text').css("max-height", ($(window).height())*0.8 );
+    imgsize();
 });
 
 function imgsize(){
