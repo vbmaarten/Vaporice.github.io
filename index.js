@@ -70,7 +70,7 @@ $( document ).ready(function() {
 });
 
 
-function isclicked(id, event){
+function isclicked(id, e){
   	var img = $(id)[0];
 	var canvas = $('<canvas/>')[0];
 	canvas.width = img.width;
