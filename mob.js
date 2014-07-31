@@ -60,7 +60,7 @@ function button1(){
 	          80 bestemmingen.<br /><br />Kortom: de mooiste ervaringen van je leven doe je op bij AEGEE-Delft.");
 }
 
-function label5(e){	
+function button5(e){	
 	openDialog("Van 3 t/m 5 oktober organiseert AEGEE-Delft een introductieliftreis naar Berlijn! \
 		Voor de nog onervaren lifter organiseren wij vooraf aan deze reis een liftworkshop. Dus of\
 		 je nu al heel de wereld rondgelift bent, of nog nooit met je duim omhoog langs de weg hebt\
@@ -69,12 +69,12 @@ function label5(e){
 		    De reis is open voor leden en niet-leden.");	
 }
 
-function label2(e){
+function button2(e){
 	openDialog("Tijdens de Owee zijn wij elke avond te vinden in caf\u00E9 de Bonte Os.\
 		<br /><br /><b>Adres:</b> Voldersgracht 10, 2611 ET Delft")
 }
 
-function label3(e){	
+function button3(e){	
 	openDialog("Maandag<br />\
 <br />\
 19.00 - 19.30 - Escalator AAN<br />\
@@ -105,10 +105,10 @@ Donderdag<br />\
 20.00-01.00 - De nulste borrel")
 }
 
-function label4(e){
+function button4(e){
 	openDialog("Leuk dat je lid wilt worden! Ga naar het <a href='https://docs.google.com/spreadsheet/viewform?formkey=dFRySXptcVFHeGpjNXZsekRjcl9VQ1E6MA#gid=0'>Inschrijfformulier</a> om je in te schrijven!");
 }
 
-function label6(e){
+function button6(e){
 	window.location = "http://www.aegee-delft.nl";
 }
