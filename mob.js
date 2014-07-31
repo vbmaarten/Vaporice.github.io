@@ -21,7 +21,7 @@ $( document ).ready(function() {
 
 function openDialog(text){
 	$("#text").html(text);
-	$("#text").css("font-size", "1.5em");
+	$("#text").css("font-size", "2.5em");
 	$("#blackness").css("visibility", "visible");
 	$("#dialog").css("visibility", "visible");
 	$("#close").css("visibility", "visible");
