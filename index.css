@@ -15,10 +15,15 @@ overflow: hidden;
 
 .mainimage {
 	position:absolute;
-	width: auto;
-	height: auto;
+	width: 100%;
+	height: 100%;
 	top: 0px;
 	left: 0px;
+}
+
+#koffer{
+	width: auto;
+	height: auto;
 }
 
 .label{
