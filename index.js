@@ -5,6 +5,8 @@ $(window).resize(function(){
         top: ($(window).height() - $('#dialog').height())/2
     });
 
+    $("#label1").css("height", $("#img").height());
+
     $('#text').css("max-height", ($(window).height())*0.8 );
 
 });
