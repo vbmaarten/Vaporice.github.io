@@ -89,7 +89,6 @@ function isclicked(id, eventObj){
 	if(pixelData[0] == 68){
 		return true;
 	} else {
-		alert(pixelData[0])
 		return false;
 	}
 }
