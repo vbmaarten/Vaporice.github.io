@@ -76,8 +76,10 @@ function isclicked(id, event){
 	canvas.width = img.width;
 	canvas.height = img.height;
 	canvas.getContext('2d').drawImage(img, 0, 0, img.width, img.height);
-	alert(event);
-	alert(event.offsetX);
+
+	var offx = (e.offsetX || e.clientX - $(e.target).offset().left);
+	var offy = (e.offsetY || e.clientY - $(e.target).offset().top);
+
 	var pixelData = canvas.getContext('2d').getImageData(event.offsetX, event.offsetY, 1, 1).data;
 	if(pixelData[0] == 68){
 		return true;
