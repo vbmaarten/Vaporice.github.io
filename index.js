@@ -16,16 +16,9 @@ function imgsize(){
 	aswin = $(window).width()/$(window).height();
 
 	if(aswin > aspect){
-		$("#koffer").css({
-			width: "100%"
-			height: "auto"
-		});
-	} else {
-
-		$("#koffer").css({
-			height: "100%"
-			width: "auto"
-		});
+		$("#koffer").css("width", String($(window).width())+"px");
+	} else {		
+		$("#koffer").css("height", String($(window).height())+"px");
 	}
 }
 
