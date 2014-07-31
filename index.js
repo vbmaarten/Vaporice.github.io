@@ -9,22 +9,28 @@ $(window).resize(function(){
     $("#label1").css("width", $("#koffer").width());
 
     $('#text').css("max-height", ($(window).height())*0.8 );
-    imgsize();
+    imgsize("#koffer");
+    imgsize("#label1");
+    imgsize("#label2");
+    imgsize("#label3");
+    imgsize("#label4");
+    imgsize("#label5");
+    imgsize("#label6");
 });
 
-function imgsize(){
+function imgsize(id){
 	aspect = 1024/768;
 	aswin = $(window).width()/$(window).height();
 
 	if(aswin < aspect){
-		$("#koffer").css("width", String($(window).width())+"px");
-		$("#koffer").css("height", String($(window).width()/aspect)+"px");	
-		$("#koffer").css("padding-top", String(($(window).height()-$("#koffer").height())/2)+"px");
-		$("#koffer").css("padding-left", "0px");
+		$(id).css("width", String($(window).width())+"px");
+		$(id).css("height", String($(window).width()/aspect)+"px");	
+		$(id).css("padding-top", String(($(window).height()-$(id).height())/2)+"px");
+		$(id).css("padding-left", "0px");
 	} else {	
-		$("#koffer").css("width", String($(window).height()*aspect)+"px");		
-		$("#koffer").css("padding-left", String(($(window).width()-$("#koffer").width())/2)+"px");
-		$("#koffer").css("padding-top", "0px");	
+		$(id).css("width", String($(window).height()*aspect)+"px");		
+		$(id).css("padding-left", String(($(window).width()-$(id).width())/2)+"px");
+		$(id).css("padding-top", "0px");	
 
 	}
 }
