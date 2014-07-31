@@ -88,7 +88,7 @@ function isclicked(id, eventObj){
 	var pl = $("#koffer").css("padding-left");
 	pl = parseFloat(pl.substring(0, pl.length-2));
 	var pt = $("#koffer").css("padding-left");
-	pt = parseFloat(pt.substring(0, pl.length-2));
+	pt = parseFloat(pt.substring(0, pt.length-2));
 
 	offX = offX + pl;
 	offY = offY + pt;
