@@ -86,14 +86,12 @@ function isclicked(id, eventObj){
 	}
 
 	var pl = $("#koffer").css("padding-left");
-	pl = pl.substring(0, pl.length-2);
+	pl = parseFloat(pl.substring(0, pl.length-2));
 	var pt = $("#koffer").css("padding-left");
-	pt = pt.substring(0, pl.length-2);
+	pt = parseFloat(pt.substring(0, pl.length-2));
 
-	alert(parseFloat(pl));
-	alert(parseFloat($("#koffer").css("padding-top")));
-	offX = offX + parseFloat($("#koffer").css("padding-left"));
-	offY = offY + parseFloat($("#koffer").css("padding-top"));
+	offX = offX + pl;
+	offY = offY + pt;
 
 	var pixelData = canvas.getContext('2d').getImageData(offX, offY, 1, 1).data;
 	if(pixelData[0] == 68){
