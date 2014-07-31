@@ -90,8 +90,8 @@ function isclicked(id, eventObj){
 	var pt = $("#koffer").css("padding-top");
 	pt = parseFloat(pt.substring(0, pt.length-2));
 
-	offX = offX + pl;
-	offY = offY + pt;
+	offX = offX - pl;
+	offY = offY - pt;
 
 	var pixelData = canvas.getContext('2d').getImageData(offX, offY, 1, 1).data;
 	if(pixelData[0] == 68){
