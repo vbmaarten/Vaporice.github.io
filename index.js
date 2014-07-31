@@ -9,10 +9,25 @@ $(window).resize(function(){
     $("#label1").css("width", $("#koffer").width());
 
     $('#text').css("max-height", ($(window).height())*0.8 );
-
-
-
 });
+
+function imgsize(){
+	aspect = 1024/768;
+	aswin = $(window).width()/$(window).height();
+
+	if(aswin > aspect){
+		$("#koffer").css({
+			width: "100%"
+			height: "auto"
+		});
+	} else {
+
+		$("#koffer").css({
+			height: "100%"
+			width: "auto"
+		});
+	}
+}
 
 $(window).load(function() {
     $(window).resize();
