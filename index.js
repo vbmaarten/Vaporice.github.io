@@ -16,7 +16,7 @@ function imgsize(){
 	aspect = 1024/768;
 	aswin = $(window).width()/$(window).height();
 
-	if(aswin < aspect){
+	if(aswin > aspect){
 		$("#koffer").css("width", String($(window).width())+"px");
 		$("#koffer").css("height", String($(window).width()*aspect)+"px");
 	} else {		
