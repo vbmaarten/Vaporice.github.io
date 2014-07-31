@@ -22,7 +22,6 @@ function imgsize(){
 		$("#koffer").css("padding-top", String(($(window).height()-$("#koffer").height())/2)+"px");
 		$("#koffer").css("padding-left", "0px");
 	} else {	
-		alert(($(window).width()-$("#koffer").width())/2);
 		$("#koffer").css("width", String($(window).height()*aspect)+"px");		
 		$("#koffer").css("padding-left", String(($(window).width()-$("#koffer").width())/2)+"px");
 		$("#koffer").css("padding-top", "0px");	
