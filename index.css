@@ -21,6 +21,11 @@ overflow: hidden;
 	left: 0px;
 }
 
+#koffer{
+	margin-right: auto;
+	margin-left: auto;
+}
+
 .label{
 	opacity:0.1;
 	position:absolute;
