@@ -29,6 +29,8 @@ padding: 0px;
 	font-size: 1.5em;
 	height: 87%;
 	width: 94%;
+	margin: 0px;
+	padding: 0px;
 	overflow: auto;	
 	text-align: left;
 }
