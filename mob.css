@@ -38,6 +38,12 @@ padding: 0px;
 	border-radius: 10px;
 }
 
+a{
+	color: #6FA7D9;
+	text-decoration: none;
+	font-weight: 700;
+}
+
 #text{
 	text-align: center;
 	font-family: arial;
