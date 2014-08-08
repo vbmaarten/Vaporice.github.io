@@ -22,17 +22,20 @@ padding: 0px;
 	left: 0px;
 	width: 94%;
 	background: #000000;
-	opacity: 0.8;
+	opacity: 0.9;
 }
 
 #blackclose{
 	color: white;
-	background-color: red;
-	margin: 5%;
+	background-color: #940000;
+	margin: 2%;
 	text-align: center;
 	font-family: arial;
 	font-size: 1.5em;
 	padding: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
 }
 
 #text{
