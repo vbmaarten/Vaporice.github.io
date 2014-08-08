@@ -2,6 +2,9 @@
 $( document ).ready(function() {
 	$("#blackness").click( function(){
 		closeDialog();
+	});	
+	$("#blackclose").click( function(){
+		closeDialog();
 	});
 	$("#close").click( function(){
 		closeDialog();
@@ -32,6 +35,7 @@ function closeDialog(){
 	$("#blackness").css("visibility", "hidden");
 	$("#dialog").css("visibility", "hidden");
 	$("#close").css("visibility", "hidden");
+	window.scrollTo(0,0);
 }
 
 
